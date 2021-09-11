@@ -1,0 +1,1 @@
+msg=this is devloper client-config properties file
